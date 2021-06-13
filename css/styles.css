@@ -1,0 +1,190 @@
+
+body{
+    margin: 0 auto;
+    background-color:white; 
+}
+header.header {
+        display: flex;
+        align-items: center;    
+}
+header.header img {
+        width: 250px ;
+        justify-content: space-between;
+        opacity:0.5;
+
+        /* display: flex;
+        justify-content: flex-end; */
+}
+section.top-page {
+        /* background:#B0AEE3; */
+        background: url("../Ma page/images/photo1.PNG");
+        height: 55vh;
+        background-size: cover;
+}
+/*Menu de naviguation*/
+nav.nav{
+        display: flex;
+        justify-content: space-between;
+        list-style: none;
+        width: 350px;
+        margin-left: 30px;
+        font-size: 20px;
+}
+            /*Page de bienvenue*/
+.big-title {
+        color:white;
+        font-size: 40px;
+        padding: 20px 150px;
+        font-weight: 600;
+}
+
+nav.nav li {
+        color: white;
+}
+
+                /* Introduction*/
+.section-title{
+        font-size: 30px;
+        font-weight: 100;
+        padding: 0px 350px;
+        color: green;
+}
+        h1,p    {
+                font-family: 'PT Sans', sans-serif;                }
+        img{
+                font-size: 30px;
+        }
+        h6 {
+                 font-size: 10px;  
+                 font-size: 18px;
+                 padding:    0px 350px;
+                 font-weight: 600; 
+        }
+                
+        header.header1 img {
+                display: flex;
+                width: 300px;
+                flex-direction: row;
+
+        }
+        header.header0 img {
+                width: 30px;
+                font-size: 10px;  
+                font-size: 10px;
+                margin:   0px 900px;
+        }
+        /* a {
+               
+                margin:   0px 500px;
+        } */
+        .welcome{
+                font-size: 20px; 
+                padding:    0px 50px;
+                line-height: 2.5; 
+                font-size: large; 
+                line-height: 30px;
+        }
+        div#content div{
+                display: inline-block;
+                width: 49%;
+        }
+
+        div#content div.leftbox p2,p4,p5,p51 {
+                /* font-size: 17px; */
+                /* margin: 10px;  */
+                line-height: 2.5; 
+                font-size: large; 
+                line-height: 30px;
+                  }
+
+         div#content div.leftbox h3 {
+                margin: 0px; 
+                font-size: 30px;
+                font-weight: 100;
+                padding: 0px 50px;      
+                  }
+       div#content div.leftbox{
+                /* background-color: blue; */
+                vertical-align: top;
+                width: 46%;
+                margin: 18px;
+       }
+       div#content div.rightbox img{
+                width: 650px;
+                height: 750px;
+                display:flex;
+                flex-direction: column;
+                padding: 10px 10px;
+                display: block;
+               margin: auto;
+               transition: 1ms;
+               cursor: zoom-in;
+                
+        }
+        div#content div.rightbox img:hover img{
+        transform:scale(1,2);
+                
+        }
+       div#content div.rightbox{
+               /* background-color: red; */
+               width: 46%;
+        }
+        div#content div.rightbox h4{
+                margin: 0px;
+                font-size: 23px;
+                font-weight: 100;
+                padding: 0px 158px;
+         }
+         div#content_1 div{
+                display: inline-block;
+                width: 49%;
+        }
+        div#content_1 div.leftbox_1{
+                /* background-color: blue; */
+                vertical-align: top;
+                width: 46%;
+                margin: 18px;
+       }
+
+          h99 {
+                margin: 0px; 
+                width: 50px;
+                font-size: 45px;
+                font-weight: 100;
+                padding: 0px 300px;
+                
+                                 } 
+        p6{
+                 margin: 20px; 
+                line-height: 2.5; 
+                font-size: 30px; 
+                line-height: 30px;    
+        }      
+        h12{
+                padding: 0px 450px; 
+               font-size: 45px;
+        }    
+        /* div.begin{
+                font-size: 20px; 
+                padding: 0px 500px;
+        } */
+        div#content_1 div.leftbox_1 img{
+                padding: 0px 10px;
+                width: 550px;
+                height: 500px;
+        } 
+        p7,p71,p6 {
+                line-height: 2.5; 
+                font-size: large; 
+                line-height: 30px;
+                margin: 30px;
+                  }
+        p52{
+                margin: 200px;
+        }
+        p8{
+                margin: 0px;  
+                /* line-height:2.5; */
+        }
+        
+
